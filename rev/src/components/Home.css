@@ -1,0 +1,51 @@
+.top-margin {
+    height: 5vh;
+    background-color: brown;
+}
+
+b {
+    font-size: 5vh;
+}
+
+.title {
+    background-color: rgb(126, 252, 252);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    /* Choose the desired font */
+    line-height: 1.6;
+    /* Adjust the line height as needed */
+    margin: 20px;
+    font-size: 2.5vh;
+    /* Add margin for better readability */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 2vw;
+    background-color: #f0f0f0;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img {
+    margin: 2vh;
+    height: 40vh;
+    width: 50vw;
+}
+
+.footer {
+    height: 10vh;
+    background-color: rgb(255, 255, 255);
+}
